@@ -1,4 +1,4 @@
-package u9t1;
+package u9t1.lab1;
 
 public class Car extends Vehicle {
     private String fabric;

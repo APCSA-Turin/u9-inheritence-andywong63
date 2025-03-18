@@ -1,4 +1,4 @@
-package u9t1.freestyle;
+package u9t1.lab1.freestyle;
 
 public class Main {
     public static void main(String[] args) {
