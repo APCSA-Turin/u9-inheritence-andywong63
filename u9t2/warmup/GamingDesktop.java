@@ -1,4 +1,4 @@
-package u9t3.warmup;
+package u9t2.warmup;
 
 import u9t1.lab2.computer.Desktop;
 

@@ -1,4 +1,4 @@
-package u9t3;
+package u9t2;
 
 import u9t1.lab2.computer.Computer;
 

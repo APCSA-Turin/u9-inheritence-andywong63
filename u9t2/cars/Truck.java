@@ -1,4 +1,4 @@
-package u9t3.cars;
+package u9t2.cars;
 
 public class Truck extends Vehicle {
     private int axles;
