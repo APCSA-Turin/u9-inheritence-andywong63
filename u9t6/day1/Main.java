@@ -1,4 +1,4 @@
-package u9t6;
+package u9t6.day1;
 
 import java.util.ArrayList;
 
